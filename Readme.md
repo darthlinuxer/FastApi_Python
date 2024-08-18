@@ -4,6 +4,10 @@
 
 Este projeto é um exemplo de como criar uma API com fastapi e testar ela usando pytest
 
+### Descrição
+
+Este é um projeto de API de Comida simples
+
 ### Requisitos
 
 - Python 3.8+
