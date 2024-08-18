@@ -1,13 +1,15 @@
-# Exemplo1
+# Tutorial de Aprendizado Python Rápido
 
-Este projeto é um exemplo de como rodar um projeto Python utilizando FastAPI e pytest.
+## Exemplo1
 
-## Requisitos
+Este projeto é um exemplo de como criar uma API com fastapi e testar ela usando pytest
+
+### Requisitos
 
 - Python 3.8+
 - pip (Python package installer)
 
-## Instalação
+### Instalação
 
 1. Clone o repositório para sua máquina local:
     ```sh
@@ -25,7 +27,7 @@ Este projeto é um exemplo de como rodar um projeto Python utilizando FastAPI e 
     pip install -r requirements.txt
     ```
 
-## Rodando o Projeto
+### Rodando o Projeto
 
 Para rodar o projeto, utilize o comando abaixo:
 
@@ -34,7 +36,7 @@ Entre dentro da pasta Exemplo 1 e digite
 python server.py
 ```
 
-## Testando o Projeto
+### Testando o Projeto
 
 Para testar o projeto, utilize o comando abaixo dentro da pasta Exemplo1:
 ```sh
